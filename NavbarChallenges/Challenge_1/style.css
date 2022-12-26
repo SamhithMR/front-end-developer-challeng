@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;1,100&display=swap');
+
+nav{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    display: flex;
+    justify-content: space-around;
+    width: 30vw;
+    background-color:#151B1F;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+a{
+    text-decoration: none;
+    color:#8F8D84 ;
+}
+a:nth-child(3){
+    color: #02F9B8;
+}
