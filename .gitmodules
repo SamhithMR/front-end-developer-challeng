@@ -1,0 +1,12 @@
+[submodule "basic_websites/Law-Home-Page"]
+	path = basic_websites/Law-Home-Page
+	url = https://github.com/SamhithMR/Law-Home-Page
+[submodule "basic_websites/landing-page"]
+	path = basic_websites/landing-page
+	url = https://github.com/SamhithMR/landing-page
+[submodule "basic_websites/Digital-Marketing-Homepage"]
+	path = basic_websites/Digital-Marketing-Homepage
+	url = https://github.com/SamhithMR/Digital-Marketing-Homepage
+[submodule "basic_websites/Crypto-Landing-page"]
+	path = basic_websites/Crypto-Landing-page
+	url = https://github.com/SamhithMR/Crypto-Landing-page
