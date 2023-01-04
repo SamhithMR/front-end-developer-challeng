@@ -10,3 +10,12 @@
 [submodule "basic_websites/Crypto-Landing-page"]
 	path = basic_websites/Crypto-Landing-page
 	url = https://github.com/SamhithMR/Crypto-Landing-page
+[submodule "basic_websites/Food-Restaurant-Home-Page"]
+	path = basic_websites/Food-Restaurant-Home-Page
+	url = https://github.com/SamhithMR/Food-Restaurant-Home-Page
+[submodule "basic_websites/Product-Home-Page"]
+	path = basic_websites/Product-Home-Page
+	url = https://github.com/SamhithMR/Product-Home-Page
+[submodule "basic_websites/Plant-HomePage"]
+	path = basic_websites/Plant-HomePage
+	url = https://github.com/SamhithMR/Plant-HomePage
