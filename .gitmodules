@@ -19,3 +19,12 @@
 [submodule "basic_websites/Plant-HomePage"]
 	path = basic_websites/Plant-HomePage
 	url = https://github.com/SamhithMR/Plant-HomePage
+[submodule "responsive_websites/Developer-Landingpage"]
+	path = responsive_websites/Developer-Landingpage
+	url = https://github.com/SamhithMR/Developer-Landingpage
+[submodule "responsive_websites/Digital-Marketing-Homepage"]
+	path = responsive_websites/Digital-Marketing-Homepage
+	url = https://github.com/SamhithMR/Digital-Marketing-Homepage
+[submodule "responsive_websites/Interior-Design-landing-page"]
+	path = responsive_websites/Interior-Design-landing-page
+	url = https://github.com/SamhithMR/Interior-Design-landing-page
