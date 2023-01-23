@@ -28,3 +28,6 @@
 [submodule "responsive_websites/Interior-Design-landing-page"]
 	path = responsive_websites/Interior-Design-landing-page
 	url = https://github.com/SamhithMR/Interior-Design-landing-page
+[submodule "responsive_websites/Plant-HomePage"]
+	path = responsive_websites/Plant-HomePage
+	url = https://github.com/SamhithMR/Plant-HomePage
