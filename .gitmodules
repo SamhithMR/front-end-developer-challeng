@@ -31,3 +31,18 @@
 [submodule "responsive_websites/Plant-HomePage"]
 	path = responsive_websites/Plant-HomePage
 	url = https://github.com/SamhithMR/Plant-HomePage
+[submodule "responsive_websites/Hosting-Landing-Page"]
+	path = responsive_websites/Hosting-Landing-Page
+	url = https://github.com/SamhithMR/Hosting-Landing-Page
+[submodule "responsive_websites/Business-Landing-Page"]
+	path = responsive_websites/Business-Landing-Page
+	url = https://github.com/SamhithMR/Business-Landing-Page
+[submodule "responsive_websites/SAAS-landing-page"]
+	path = responsive_websites/SAAS-landing-page
+	url = https://github.com/SamhithMR/SAAS-landing-page
+[submodule "responsive_websites/Dance-Home-Page"]
+	path = responsive_websites/Dance-Home-Page
+	url = https://github.com/SamhithMR/Dance-Home-Page
+[submodule "responsive_websites/Product-Design-Landing-Page"]
+	path = responsive_websites/Product-Design-Landing-Page
+	url = https://github.com/SamhithMR/Product-Design-Landing-Page
